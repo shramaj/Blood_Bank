@@ -82,8 +82,8 @@ Steps to run the project:
 1.Restore the database
 Use the mongorestore command to restore the bloodbank database which is present in database_files folder.
 
-b)Localhost
+2.Localhost
 Copy all the files into the var/www/html folder i.e in the default root folder of the web server.
 
-c)Run
+3.Run
 open the index1.php to start the project
