@@ -1,0 +1,13 @@
+#headerr {
+background:  url(images/header.jpg);
+background-size: 100% 100%;
+background-repeat: no-repeat;
+}
+#headerr h1 { 
+font-size: 38px;
+letter-spacing: -1px;
+padding:50px;
+color: black;
+ 
+}
+ 

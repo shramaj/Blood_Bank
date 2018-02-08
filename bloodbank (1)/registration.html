@@ -1,0 +1,72 @@
+ 
+
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="style1.css" media="screen" /></head>
+<body bgcolor="white" >
+<div id="headerr">
+<br>
+ <h1>REGISTRATION FORM</h1>
+ 
+</div>
+<style>
+fieldset{
+  width: 700px;
+  float: center;
+}
+</style>
+<br>
+<br>
+
+<form action="form.php" method="post">
+ <fieldset>
+   <legend>Personal Information:</legend>
+    First Name:
+   <input type="text" name="firstname" placeholder="firstname">
+	<br>
+	Last Name:
+	<input type="text" name="lastname" placeholder="lastname">
+	<br>
+	Age: 
+	<input type="text" name="age" placeholder="Age">
+ 	<br>
+	Gender:
+	<select name="gender">
+	<option value="Male">Male</option>
+	<option value="Female">Female</option>
+	</select>
+	<br>
+	<label for="inputdob">Date of Birth</label>
+	<input type="date">
+	<br>
+         
+	</fieldset>
+  <fieldset> 
+ 
+  <legend>Contact Details</legend>
+  Address:
+  <input type="textarea" name="address" placeholder="Address">
+  <br>
+  E-mail:
+  <input type="email" name="email" placeholder="Email-id">
+  <br>
+  Mobile.No:
+  <input type="tel" name="mobile" min="10">
+  <br>
+  </fieldset>
+<fieldset>
+<legend>Log in Info</legend>
+Username: <input type="text" name="name" placeholder="username" size="10"></input><br>
+Password: <input type="password" name="pass" placeholder="password" size="10"></input><br>
+Confirm Password: <input type="password" name="pass" placeholder="password" size="10"></input><br>
+</fieldset>
+<input type="submit" name="login" value="Submit"> </input>
+<input type="reset" name="login" value="Reset"> </input><br>
+</form>
+</body>
+</html>

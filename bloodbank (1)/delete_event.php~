@@ -1,0 +1,39 @@
+<?php
+
+echo "event :".$_GET['eventn'];
+
+
+$con = new MongoClient();
+$db = $con->bloodbank; //select Database
+
+$collection = $db->events;
+$bg=$_GET['eventn'];
+echo $bg;
+$q = array('cname' => $bg);
+//		$result = $collection->findOne($q);
+	 
+
+$result = $collection->findOne($q);
+
+//if($result)
+
+if(!empty($result)){
+echo "hi";
+}
+echo $result['cname'];
+
+//}
+?>
+ 
+
+
+<form method="post" action="delete_event1.php">
+<input type="text" name="cname" value="<?php echo $result['cname']; ?>"><br/>
+<input type="text" name="date" value="<?php echo $result['date']; ?>"><br/>
+<input type="text" name="place" value="<?php echo $result['place']; ?>"><br/>
+<input type="text" name="time" value="<?php echo $result['time']; ?>"><br/>
+<input type="text" name="sponsor" value="<?php echo $result['sponsor']; ?>"><br/>
+<input type="text" name="event_no" value="<?php echo $result['event_no']; ?>"><br/>
+ 
+<button type="submit" name="delete" >DELETE</button>
+</form>

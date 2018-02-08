@@ -1,0 +1,17 @@
+{"_id":{"$oid":"57e52edbfe862f5d058b4567"},"firstname":"Hansraj","lastname":"Mete","age":"20","gender":"Male","address":"Pict,Pune","email":"mete@gmail.com","mobile":"8989456723","b_grp":"A-"}
+{"_id":{"$oid":"57e543e4fe862fe7108b4567"},"firstname":"madhura ","lastname":"chaughale","age":"45","gender":"Female","address":"a1,vidhi park,trimurti nagar,Pune","email":"madhura4@gmail.com","mobile":"8989123456","b_grp":"O+"}
+{"_id":{"$oid":"57e5446bfe862f5c058b4567"},"firstname":"Pavandeep","lastname":"Singh","age":"48","gender":"Male","address":"Swapnurti blng,ganesh chowk,Pune","email":"singh444@gmail.com","mobile":"9876784567","b_grp":"AB+"}
+{"_id":{"$oid":"57e544bffe862fe3108b4567"},"firstname":"Piyush","lastname":"Nalawade","age":"78","gender":"Male","address":"Pankaj Society,Rajje chowk,Pune","email":"nalawade456@gmail.com","mobile":"9876543245","b_grp":"AB-"}
+{"_id":{"$oid":"57e5454dfe862f5d058b4568"},"firstname":"Aishwarya","lastname":"Diwan","age":"21","gender":"Female","address":"a1,sinhagad highway,pune","email":"aish@gmail.com","mobile":"9453212345","b_grp":"B+"}
+{"_id":{"$oid":"57e54591fe862fe8108b4568"},"firstname":" Nidhi","lastname":"Ghorapade","age":"22","gender":"Female","address":"near zoo park,katraj,pune","email":"nidhi@gmail.com","mobile":"985643456787","b_grp":"O+"}
+{"_id":{"$oid":"57ea719afe862fc4118b4567"},"firstname":"Yogini","lastname":"Kuyate","age":"34","gender":"Female","address":"Sinhagad,Pune","email":"yg3@gmail.com","mobile":"9876123456","b_grp":"O+"}
+{"_id":{"$oid":"57eb4d42fe862f470a8b4567"},"firstname":"shra","lastname":"majali","age":"24","gender":"Female","address":"pict,pune","email":"shra@gmail.com","mobile":"9987657843","b_grp":"B+"}
+{"_id":{"$oid":"57ebaf7ffe862f200a8b4567"},"firstname":"Suraj","lastname":"Kasaar","age":"78","gender":"Male","address":"Abhiruchi,Sinhagad Road,Pune","email":"kasaar7@gmail.com","mobile":"9887654323","b_grp":"O-"}
+{"_id":{"$oid":"57e281f4fe862f8b058b4567"},"firstname":"Ketan","lastname":"Vaze","age":"24","gender":"Male","address":"Pune","email":"ket@gmail.com","mobile":"9898674532","b_grp":"B-"}
+{"_id":{"$oid":"57e52841fe862f5e058b4567"},"firstname":"Arti ","lastname":"Laddha","age":"20","gender":"Female","address":"Friends Hostel,Near PICT,Pune","email":"artiladdha53@gmail.com","mobile":"8787563421","b_grp":"A-"}
+{"_id":{"$oid":"57ebdb35fe862f1a0a8b4567"},"firstname":"shra","lastname":"Kapoor","age":"43","gender":"Female","address":"Pune","email":"f5@gmail.com","mobile":"8765123456","b_grp":"O+"}
+{"_id":{"$oid":"57ebdca4fe862fe9058b4567"},"firstname":"shra","lastname":"Kapoor","age":"23","gender":"Female","address":"Pune","email":"sss@gmail.com","mobile":"7712345678","b_grp":"A+"}
+{"_id":{"$oid":"57efb269fe862fb70a8b4567"},"firstname":"Kunal","lastname":"Nalamwar","age":"23","gender":"Male","address":"Kothrud,Pune","email":"knalu4@gmail.com","mobile":"9766234522","b_grp":"B+"}
+{"_id":{"$oid":"57e281b7fe862f5f0e8b4567"},"firstname":"Shreya","lastname":"Galani","age":"21","gender":"Female","address":"Princess Girls Hostel,Katraj,Pune","email":"shreyagalani6474@gmail.com","mobile":"9970300849","b_grp":"B+","Blood-group":"O-","no_of_units":"4"}
+{"_id":{"$oid":"5809bd4d015af8b6418b4567"},"firstname":"Maanav","lastname":"mehrotra","age":"22","gender":"Male","address":"Mumbai","email":"mm43@gmail.com","mobile":"8787851234","b_grp":"O+"}
+{"_id":{"$oid":"580c9086015af8c620336550"},"firstname":"kailash","lastname":"malani","age":"19","gender":"Male","address":"Pune","email":"malanikailash@gmail.com","mobile":"8857907341","b_grp":"B+"}

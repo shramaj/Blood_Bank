@@ -1,0 +1,8 @@
+{"_id":{"$oid":"57d88b53981c5054d5718158"},"Blood-group":"A+","no_of_units":94,"b_id":"Ap"}
+{"_id":{"$oid":"57d88b8d981c5054d571815c"},"Blood-group":"O+","no_of_units":"130","b_id":"Op"}
+{"_id":{"$oid":"57d88b64981c5054d5718159"},"Blood-group":"A-","no_of_units":"20","b_id":"An"}
+{"_id":{"$oid":"57d88b72981c5054d571815a"},"Blood-group":"B+","no_of_units":"267","b_id":"Bp"}
+{"_id":{"$oid":"57d88b98981c5054d571815d"},"Blood-group":"O-","no_of_units":"7","b_id":"On"}
+{"_id":{"$oid":"57d88ba8981c5054d571815e"},"Blood-group":"AB+","no_of_units":"157","b_id":"ABp"}
+{"_id":{"$oid":"57d88b7d981c5054d571815b"},"Blood-group":"B-","no_of_units":65,"b_id":"Bn"}
+{"_id":{"$oid":"57d88bb1981c5054d571815f"},"Blood-group":"AB-","no_of_units":2,"b_id":"ABn"}

@@ -1,0 +1,4 @@
+{"_id":{"$oid":"5809bdf4c320b928d538c75d"},"cname":"Donate!","date":"25-10-2016","place":"Fergusson College,Pune","time":"10:00am - 6:00pm","sponsor":"FC Social group","event_no":1.0}
+{"_id":{"$oid":"5809be2cc320b928d538c75e"},"cname":"Enjoy the love of giving!","date":"30-10-2016","place":"Tcs Company","time":"11:00am - 6:00pm","sponsor":"TCS","event_no":2.0}
+{"_id":{"$oid":"5809be65c320b928d538c75f"},"cname":"Enjoy the love of giving!","date":"31-10-2016","place":"Persistent,Pune","time":"10:30am - 6:00pm","sponsor":"Persitent Pvt Ltd","event_no":3.0}
+{"_id":{"$oid":"5809be9dc320b928d538c760"},"cname":"Donate and give life","date":"12-11-2016","place":"SP college","time":"12:30am - 5:00pm","sponsor":"SP Jeevandaan group","event_no":4.0}

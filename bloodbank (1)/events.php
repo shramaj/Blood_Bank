@@ -1,0 +1,183 @@
+<?php
+session_start();
+
+if(isset($_SESSION['email']))
+{
+echo "<div class='frmt'> Logged in: ";
+ echo $_SESSION['email'] ;
+echo "</div>";
+
+}
+else{ 
+header('Location: index1.php');
+}
+ 
+?> 
+
+
+<html>
+<head>
+<h1><b><i><center>ORGANISED EVENTS</center></i></b></h1>
+<style>
+table
+{
+border-collapse:collapse;
+}
+table,th,td
+{
+border:1px solid black;
+}
+table
+{
+width:100%;
+border-collapse:collapse;
+}
+th,td
+{
+padding:10px;
+ 
+}
+th
+{
+height:50px;
+ 
+}
+td
+{
+height:50px;
+}
+tr:hover
+{
+background-color:#f5f5f5;
+}
+h1
+{
+background:  url(images/header.jpg);
+background-size: 100% 100%;
+background-repeat: no-repeat;
+padding:50px;
+}
+</style>
+<body>
+<h2><b>Event Name:</h2></b>Blood Donation Campaign<br/>
+<h2><b>Place:</h2></b>Satara road,pune<br/>
+<h2><b>Date:</h2></b>1-8-2016<br/>
+<h2><b>Time:</h2></b>10:00am-5:00pm<br/>
+<h2><b>Sponsor:</h2></b>Bhumi Organisation<br/>
+<h2><b>Total no of donors:</h2></b>100<br/>
+<h2><b>Total units collected:</h2></b>100<br/>
+<table>
+<th>Blood Group</th>
+</th>No of Units</th>
+<tr>
+<td>A+</td>
+<td>30</td>
+<tr>
+<td>A-</td>
+<td>1</td>
+<tr>
+<td>B+</td>
+<td>15</td>
+<tr>
+<td>B-</td>
+<td>5</td>
+<tr>
+<td>O+</td>
+<td>15</td>
+<tr>
+<td>O-</td>
+<td>30</td>
+<tr>
+<td>AB+</td>
+<td>10</td>
+<tr>
+<td>AB-</td>
+<td>1</td>
+</tr>
+</table>
+<br/>
+<br/>
+<h2><b>Event Name:</h2></b>Be a Hero!Donate Blood!1<br/>
+<h2><b>Place:</h2></b>TCS company,Hinjewadi,pune<br/>
+<h2><b>Date:</h2></b>15-8-2016<br/>
+<h2><b>Time:</h2></b>11:00am-4:00pm<br/>
+<h2><b>Sponsor:</h2></b>TCS Company<br/>
+<h2><b>Total no of donors:</h2></b>150<br/>
+<h2><b>Total units collected:</h2></b>150<br/>
+<table>
+<th>Blood Group</th>
+</th>No of Units</th>
+<tr>
+<td>A+</td>
+<td>40</td>
+<tr>
+<td>A-</td>
+<td>10</td>
+<tr>
+<td>B+</td>
+<td>40</td>
+<tr>
+<td>B-</td>
+<td>10</td>
+<tr>
+<td>O+</td>
+<td>20</td>
+<tr>
+<td>O-</td>
+<td>5</td>
+<tr>
+<td>AB+</td>
+<td>20</td>
+<tr>
+<td>AB-</td>
+<td>5</td>
+</tr>
+</table>
+<br/>
+<br/>
+
+<h2><b>Event Name:</h2></b>Come and Experience something new!Donate Blood!!<br/>
+<h2><b>Place:</h2></b>Fergussion College,FC road,pune<br/>
+<h2><b>Date:</h2></b>28-8-2016<br/>
+<h2><b>Time:</h2></b>12:00am-6:00pm<br/>
+<h2><b>Sponsor:</h2></b>Fergussion College<br/>
+<h2><b>Total no of donors:</h2></b>200<br/>
+<h2><b>Total units collected:</h2></b>200<br/>
+<table>
+<th>Blood Group</th>
+</th>No of Units</th>
+<tr>
+<td>A+</td>
+<td>50</td>
+<tr>
+<td>A-</td>
+<td>5</td>
+<tr>
+<td>B+</td>
+<td>50</td>
+<tr>
+<td>B-</td>
+<td>6</td>
+<tr>
+<td>O+</td>
+<td>40</td>
+<tr>
+<td>O-</td>
+<td>9</td>
+<tr>
+<td>AB+</td>
+<td>30</td>
+<tr>
+<td>AB-</td>
+<td>10</td>
+</tr>
+</table>
+<br/>
+<br/>
+
+</body>
+
+
+
+</html>
+
